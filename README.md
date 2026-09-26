@@ -1,27 +1,27 @@
-# ✨ Hey there, I’m so glad you’re here!
+Hey there, I’m so glad you’re here!
 
 Welcome to my little corner of GitHub!  
-I’m passionate about solving complex business problems with data, mastering modern analytics tools, and making operations a *little* less overwhelming (and a lot more insightful)[cite: 1, 2]. Here, you’ll find:
+I’m passionate about solving complex business problems with data, mastering modern analytics tools, and making operations a *little* less overwhelming (and a lot more insightful). Here, you’ll find:
 
-* 📊 End-to-end data analytics and business intelligence setups[cite: 1, 2]
-* 💡 Things I’ve learned while balancing business operations, data modeling, and continuous learning[cite: 1, 2]
-* 🌱 Real-world takeaways and resources for anyone navigating analytics and the corporate world[cite: 2]
+* 📊 End-to-end data analytics and business intelligence setups
+* 💡 Things I’ve learned while balancing business operations, data modeling, and continuous learning
+* 🌱 Real-world takeaways and resources for anyone navigating analytics and the corporate world
 
-Whether you're here to explore analytics solutions, talk data strategy, or just see how someone else is building their skill set—you’re in the right place! 🤝[cite: 2]
+Whether you're here to explore analytics solutions, talk data strategy, or just see how someone else is building their skill set—you’re in the right place! 🤝
 
-Let’s connect, learn, and grow together—one repo at a time[cite: 2].  
+Let’s connect, learn, and grow together—one repo at a time.  
 You bring the coffee, I’ll bring the insights ☕ 📈
 
 ---
 
-### 🌐 Socials:
+🌐 Socials:
 
 <a href="https://linkedin.com/in/rahulrayoneview"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rahulray763@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=yahoo&logoColor=white" alt="Email" /></a>
 
 ---
 
-### 💻 Tech Stack:
+💻 Tech Stack:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -37,11 +37,10 @@ You bring the coffee, I’ll bring the insights ☕ 📈
 </p>
 
 ---
+📜 Certifications & Learning:
 
-### 📜 Certifications & Learning:
-
-* 🎓 **MBA in Business Analytics, SCM & Logistics** (Pursuing)
-* 🏅 **PL-300:** Microsoft Certified: Power BI Data Analyst[cite: 1]
-* 🏅 **DP-300:** Microsoft Certified: Azure Database Administrator[cite: 1]
-* 🏅 **DP-600:** Microsoft Certified: Fabric Analytics Engineer Associate[cite: 1]
-* 🏅 **SAP Analytics Cloud Certified Business Analyst**[cite: 1]
+* 🎓 MBA in Business Analytics, SCM & Logistics** (Pursuing)
+* 🏅 PL-300:** Microsoft Certified: Power BI Data Analyst
+* 🏅 DP-300:** Microsoft Certified: Azure Database Administrator
+* 🏅 DP-600:** Microsoft Certified: Fabric Analytics Engineer Associate
+* 🏅 SAP Analytics Cloud Certified Business Analyst
