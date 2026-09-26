@@ -12,14 +12,14 @@ Whether you're here to explore analytics solutions, talk data strategy, or just 
 Let’s connect, learn, and grow together—one repo at a time.  
 You bring the coffee, I’ll bring the insights ☕ 📈
 
----
+
 
 🌐 Socials:
 
 <a href="https://linkedin.com/in/rahulrayoneview"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rahulray763@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=yahoo&logoColor=white" alt="Email" /></a>
 
----
+
 
 💻 Tech Stack:
 
@@ -36,11 +36,11 @@ You bring the coffee, I’ll bring the insights ☕ 📈
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt" />
 </p>
 
----
+
 📜 Certifications & Learning:
 
-* 🎓 MBA in Business Analytics, SCM & Logistics** (Pursuing)
-* 🏅 PL-300:** Microsoft Certified: Power BI Data Analyst
-* 🏅 DP-300:** Microsoft Certified: Azure Database Administrator
-* 🏅 DP-600:** Microsoft Certified: Fabric Analytics Engineer Associate
-* 🏅 SAP Analytics Cloud Certified Business Analyst
+🎓 MBA in Business Analytics, SCM & Logistics
+🏅 **PL-300:** Microsoft Certified: Power BI Data Analyst
+🏅 **DP-300:** Microsoft Certified: Azure Database Administrator
+🏅 **DP-600:** Microsoft Certified: Fabric Analytics Engineer Associate
+🏅 **SAP Analytics Cloud Certified Business Analyst
