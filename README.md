@@ -39,8 +39,8 @@ You bring the coffee, I’ll bring the insights ☕ 📈
 
 📜 Certifications & Learning:
 
-🎓 MBA in Business Analytics, SCM & Logistics
-🏅 **PL-300:** Microsoft Certified: Power BI Data Analyst
-🏅 **DP-300:** Microsoft Certified: Azure Database Administrator
-🏅 **DP-600:** Microsoft Certified: Fabric Analytics Engineer Associate
-🏅 **SAP Analytics Cloud Certified Business Analyst
+* 🎓 MBA in Business Analytics, SCM & Logistics
+* 🏅 **PL-300:** Microsoft Certified: Power BI Data Analyst
+* 🏅 **DP-300:** Microsoft Certified: Azure Database Administrator
+* 🏅 **DP-600:** Microsoft Certified: Fabric Analytics Engineer Associate
+* 🏅 **SAP Analytics Cloud Certified Business Analyst
